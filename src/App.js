@@ -47,7 +47,7 @@ class App extends Component {
         "occupation":"(Your Occupation Here)",
         "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
         "image":"avatar.jpeg",
-        "bio":"4年前端开发工作经验，简单可依赖。有Vue、React、Angular项目开发经验，参与过微信H5、百度Hi H5页面开发。",
+        "bio":"4年前端开发工作经验，简单可依赖，扎实的前端基础和快速的学习能力。有Vue全家桶、React全家桶、Angular项目开发经验，参与过微信H5、百度Hi H5页面开发。期望可以做一些即有挑战又有趣的事情（RN，Node，小程序，Flutter等）",
         "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
         "email": "ly604547351@163.com",
         "phone": "13262275630",
@@ -79,19 +79,19 @@ class App extends Component {
             "company":"百度",
             "title":"前端高级开发工程师",
             "years":"2018.08 - 至今",
-            "description":"商业平台部（品牌广告技术部）FE，参与过百度指数产品重构的开发工作，日常维护商业产品的业务端（独立开发，维护），百度Veui组件库贡献者之一。"
+            "description":"商业平台部（品牌广告技术部）FE，参与过百度指数产品重构的开发工作，日常维护商业产品的业务端（独立开发，维护），百度Veui组件库贡献者之一。技术栈是vue全家桶"
           },
           {
             "company":"上海泛微网络科技股份有限公司",
             "title":"前端开发工程师",
             "years":"2017.02 - 2018.07",
-            "description":"OA系统-E9产品标准组件库开发和维护工作，参与前端基础架构研发和升级，处理复杂的产品业务，前端技术支持。"
+            "description":"OA系统-E9产品标准组件库开发和维护工作，参与前端基础架构研发和升级，处理复杂的产品业务，前端技术支持。技术栈是react全家桶"
           },
           {
             "company":"群硕软件开发(上海)有限公司",
             "title":"前端开发工程师",
             "years":"2014.11 - 2017.01",
-            "description":"参与crm系统后台管理系统前端页面开发及维护，参与过微信公众号开发."
+            "description":"参与crm系统后台管理系统前端页面开发及维护，参与过微信公众号开发。技术栈是angular+vue全家桶"
           }
         ],
         "skills":[
@@ -104,7 +104,7 @@ class App extends Component {
             "level":"80%"
           },
           {
-            "name":"ReactJs",
+            "name":"React",
             "level":"80%"
           },
           {
